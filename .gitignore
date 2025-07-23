@@ -117,6 +117,9 @@ poetry.lock
 **/.nextflow
 **/*.log*
 
+# Metaflow metadata
+**/.metaflow
+
 # notebooks
 **/*.ipynb
 
